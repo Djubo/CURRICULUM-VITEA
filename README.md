@@ -1,5 +1,5 @@
 
- <img src= "https://image-uniservice.linternaute.com/image/250/3/1409080080/4079437.jpg">
+ <img src= "https://image-uniservice.linternaute.com/image/150/3/1409080080/4079437.jpg">
   <h1>Etude:</h1>
 
     - BEP-CAP vente action marchande
@@ -14,4 +14,4 @@
    </<iframe src="https://giphy.com/embed/l2QDRdU3ZnXzlcg3S" width="480" height="179" frameBorder="0" class="giphy-embed" allowFullScreen></p>
 
    </iframe><p><a href="https://giphy.com/gifs/benjaminbooker-believe-benjamin-booker-l2QDRdU3ZnXzlcg3S"></a>
-   </gif>
+   
