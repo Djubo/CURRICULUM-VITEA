@@ -14,5 +14,5 @@
    </<iframe src="https://giphy.com/embed/l2QDRdU3ZnXzlcg3S" width="480" height="179" frameBorder="0" class="giphy-embed" allowFullScreen>
    <div style="width:100%;height:0;padding-bottom:37%;position:relative;"><iframe src="https://giphy.com/embed/l2QE4YLnQhZDsYzIc" width="100%"
    height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
-   href="https://giphy.com/gifs/benjaminbooker-believe-benjamin-booker-l2QE4YLnQhZDsYzIc">via GIPHY</a></p> 
+   href="https://giphy.com/gifs/benjaminbooker-believe-benjamin-booker-l2QE4YLnQhZDsYzIc"></p> 
    
