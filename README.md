@@ -1,5 +1,5 @@
 
-  <p><img src= "https://image-uniservice.linternaute.com/image/250/1389758640/11742809.jpg">
+  <p><img src= "https://image-uniservice.linternaute.com/image/150/1389758640/11742809.jpg">
   <p1><a href="https://www.instagram.com/azekiell/">Instagram</a></p1>
   <p2><a href="https://www.facebook.com/beauvallet.julien">Facebook</a></p2>
   <p3><a href="https://www.twitch.tv/djub0otv">Twitch</a></p3></p>
