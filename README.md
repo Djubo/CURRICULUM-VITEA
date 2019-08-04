@@ -1,6 +1,6 @@
 
   
-  <h1>Etude:</h2>
+  <h1>Etude:</h1>
 
     - BEP-CAP vente action marchande
     - Niveau BAC Pro Vente
