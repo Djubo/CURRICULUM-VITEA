@@ -1,4 +1,5 @@
-
+<head>
+  
   Etude:
 
   - BEP-CAP vente action marchande
