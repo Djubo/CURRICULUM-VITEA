@@ -1,8 +1,11 @@
 
- <p><img src= "https://image-uniservice.linternaute.com/image/150/3/1409080080/4079437.jpg">
- <a href="https://www.instagram.com/azekiell/">Instagram
- <a href="https://www.facebook.com/beauvallet.julien">Facebook</a></p>
-  <h1>Etude:</h1>
+<main>
+  <p><img src= "https://image-uniservice.linternaute.com/image/150/3/1409080080/4079437.jpg">
+  <a href="https://www.instagram.com/azekiell/">Instagram</a></p>
+  <a href="https://www.facebook.com/beauvallet.julien">Facebook</a></p>
+</main>
+  
+<h1>Etude:</h1>
 
     - BEP-CAP vente action marchande
     - Niveau BAC Pro Vente
