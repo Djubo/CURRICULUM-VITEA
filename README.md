@@ -1,5 +1,5 @@
 
- <img src= "https://image-uniservice.linternaute.com/image/450/3/1409080080/4079437.jpg">
+ <img src= "https://image-uniservice.linternaute.com/image/250/3/1409080080/4079437.jpg">
   <h1>Etude:</h1>
 
     - BEP-CAP vente action marchande
