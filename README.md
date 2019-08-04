@@ -19,3 +19,10 @@
    <iframe src="https://giphy.com/embed/ZcZOj4q60MNsQ" width="180" height="180" frameBorder="0" class="giphy-embed" allowFullScreen></p> 
    
 
+@font-feature-values Font One {
+/* On active la caractéristique nice-style 
+   sur Font One */
+  @styleset {
+    nice-style: 12;
+  }
+}
