@@ -1,10 +1,8 @@
-ffmpeg -i in.video -vn -acodec libvorbis -ab 128k -dash 1 my_audio.webm
 
-
-  <p><img src= "https://image-uniservice.linternaute.com/image/100/3/1409080080/4079437.jpg"></p>
-  <p><a href="https://www.instagram.com/azekiell/">Instagram</a></p>
-  <p><a href="https://www.facebook.com/beauvallet.julien">Facebook</a></p>
-  <p><a href="https://www.twitch.tv/djub0otv">Twitch</a></p>
+  <p><img src= "https://image-uniservice.linternaute.com/image/100/3/1409080080/4079437.jpg">
+  <p1><a href="https://www.instagram.com/azekiell/">Instagram</a></p1>
+  <p2><a href="https://www.facebook.com/beauvallet.julien">Facebook</a></p2>
+  <p3><a href="https://www.twitch.tv/djub0otv">Twitch</a></p3></p>
 
   
 <h2>Etude:</h2>
