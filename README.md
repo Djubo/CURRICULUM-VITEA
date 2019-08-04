@@ -1,8 +1,7 @@
-
 <main>
   <p><img src= "https://image-uniservice.linternaute.com/image/150/3/1409080080/4079437.jpg">
-  <h1><a href="https://www.instagram.com/azekiell/">Instagram</a>
-  <a href="https://www.facebook.com/beauvallet.julien">Facebook</a></p></h1>
+  <a href="https://www.instagram.com/azekiell/">Instagram</a>
+  <a href="https://www.facebook.com/beauvallet.julien">Facebook</a></p>
 </main>
   
 <h2>Etude:</h2>
