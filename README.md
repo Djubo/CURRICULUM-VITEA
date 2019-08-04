@@ -1,4 +1,4 @@
-<img src= "https://scontent-cdt1-1.xx.fbcdn.net/v/t1.0-9/61340085_10219124545921884_8013455229603282944_n.jpg?_nc_cat=109&_nc_oc=AQms92-vfVO1HGsaAZK7ORn9mv30YT-XM7Mb40w-EtvyOpAcyhFC2mUkeiQowg4kdxo&_nc_ht=scontent-cdt1-1.xx&oh=0940fd25f33f5d1f5a0528034c7a3d8e&oe=5DE43380".jpg>
+<img src= "https://a4-images.myspacecdn.com/images04/8/c3f4ffcffe274591b6ae50a3f2e1cce5/full.jpg">
   
   <h1>Etude:</h1>
 
