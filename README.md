@@ -1,6 +1,6 @@
 
  <p><img src= "https://image-uniservice.linternaute.com/image/150/3/1409080080/4079437.jpg">
- <a href="https://www.facebook.com/beauvallet.julien">faceboock</a></p>
+ <a href="https://www.facebook.com/beauvallet.julien">facebook</a></p>
   <h1>Etude:</h1>
 
     - BEP-CAP vente action marchande
