@@ -4,14 +4,6 @@
 
     - BEP-CAP vente action marchande
     - Niveau BAC Pro Vente
-
-
-
-
-
-
-
-  <body>
    
    <h2>Parcour Professionnelle:</h2>
 
