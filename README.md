@@ -1,3 +1,5 @@
+ffmpeg -i in.video -vn -acodec libvorbis -ab 128k -dash 1 my_audio.webm
+
 
   <p><img src= "https://image-uniservice.linternaute.com/image/100/3/1409080080/4079437.jpg"></p>
   <p><a href="https://www.instagram.com/azekiell/">Instagram</a></p>
