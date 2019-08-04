@@ -5,5 +5,5 @@ Epériences Professionnelle:
 
   <iframe src="https://giphy.com/embed/l2QDRdU3ZnXzlcg3S" width="480" height="179" frameBorder="45" class="giphy-embed" allowFullScreen>
 
-  </iframe><p><a href="https://giphy.com/gifs/benjaminbooker-believe-benjamin-booker-l2QDRdU3ZnXzlcg3S">
+  </iframe><p><a href="https://giphy.com/gifs/benjaminbooker-believe-benjamin-booker-l2QDRdU3ZnXzlcg3S"></a></p>
 
