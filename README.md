@@ -1,8 +1,9 @@
-<main>
-  <p><img src= "https://image-uniservice.linternaute.com/image/150/3/1409080080/4079437.jpg">
-  <a href="https://www.instagram.com/azekiell/">Instagram</a>
-  <a href="https://www.facebook.com/beauvallet.julien">Facebook</a></p>
-</main>
+
+  <p><img src= "https://image-uniservice.linternaute.com/image/150/3/1409080080/4079437.jpg"></p>
+  <p><a href="https://www.instagram.com/azekiell/">Instagram</a></p>
+  <p><a href="https://www.facebook.com/beauvallet.julien">Facebook</a></p>
+  <p><a href="https://www.twitch.tv/djub0otv">Twitch</a></p>
+
   
 <h2>Etude:</h2>
 
