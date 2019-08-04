@@ -1,6 +1,3 @@
-# CURRICULUM VITEA
-
-
 
 Epériences Professionnelle:
 
