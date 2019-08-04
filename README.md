@@ -1,5 +1,17 @@
 
-Epériences Professionnelle:
+Etudes:
+
+  - BEP-CAP vente action marchande
+  - Niveau BAC Pro Vente
+
+
+
+
+
+
+
+
+Parcour Professionnelle:
 
 
 <iframe src="https://giphy.com/embed/9P94yLRR2R4LFNNXIg" width="180" height="180" frameBorder="0" class="giphy-embed" allowFullScreen></a></p>
