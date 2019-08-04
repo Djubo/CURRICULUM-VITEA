@@ -11,7 +11,7 @@
 
 
 
-        <body>
+  <body>
    
    <h2>Parcour Professionnelle:</h2>
 
@@ -21,4 +21,4 @@
           </<iframe src="https://giphy.com/embed/l2QDRdU3ZnXzlcg3S" width="480" height="179" frameBorder="0" class="giphy-embed" allowFullScreen>
 
           </iframe><p><a href="https://giphy.com/gifs/benjaminbooker-believe-benjamin-booker-l2QDRdU3ZnXzlcg3S"></a>
-          </body>
+   </body>
