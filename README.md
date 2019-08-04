@@ -1,16 +1,16 @@
 
 <main>
   <p><img src= "https://image-uniservice.linternaute.com/image/150/3/1409080080/4079437.jpg">
-  <a href="https://www.instagram.com/azekiell/">Instagram</a>
-  <a href="https://www.facebook.com/beauvallet.julien">Facebook</a></p>
+  <h1><a href="https://www.instagram.com/azekiell/">Instagram</a>
+  <a href="https://www.facebook.com/beauvallet.julien">Facebook</a></p></h1>
 </main>
   
-<h1>Etude:</h1>
+<h2>Etude:</h2>
 
     - BEP-CAP vente action marchande
     - Niveau BAC Pro Vente
    
-  <h2>Parcour Professionnelle:</h2>
+  <h3>Parcour Professionnelle:</h3>
 
    <title>Armée de l'Air:</title>
    <main>  
