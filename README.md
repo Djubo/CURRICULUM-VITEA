@@ -1,7 +1,7 @@
 <htlm lang="fr">
   
   <p><img src= "https://image-uniservice.linternaute.com/image/150/1389758640/11742809.jpg">
-  <img src=https://png.pngtree.com/png-clipart/20190516/original/pngtree-instagram-social-media-icon-design-template-vector-png-image_3654775.jpg <a href="https://www.instagram.com/azekiell/">Instagram</a>/
+  <img src= https://sensationalsuga.co.za/wp-content/uploads/2013/02/Instagram-logo-1.jpg <a href="https://www.instagram.com/azekiell/">Instagram</a>/
   <a href="https://www.facebook.com/beauvallet.julien">Facebook</a>/
   <a href="https://www.twitch.tv/djub0otv">Twitch</a></p>
   
