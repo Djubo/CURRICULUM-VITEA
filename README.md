@@ -2,28 +2,21 @@
   <div class="banniere">
      <p><img src= "https://image-uniservice.linternaute.com/image/150/1389758640/11742809.jpg">
      <a 
- href="https://www.instagram.com/azekiell/" title="Instagram"><img style="border: 0px solid ; width: 80px; 
- height: 
- 60px;" alt="Texte alternatif" 
- src="https://sensationalsuga.co.za/wp-content/uploads/2013/02/Instagram-logo-1.jpg"></a>
-     <img src= "https://sensationalsuga.co.za/wp-content/uploads/2013/02/Instagram-logo-1.jpg" width="50">
-     <iframe src= "https://www.instagram.com/azekiell/"></a> 
+ href="https://www.instagram.com/azekiell/" title="Instagram"> width="50" alt="Instagram">
+ <src="https://sensationalsuga.co.za/wp-content/uploads/2013/02/Instagram-logo-1.jpg"></a>
      <a href="https://www.facebook.com/beauvallet.julien">Facebook</a>/
      <a href="https://www.twitch.tv/djub0otv">Twitch</a></p>   
   </div>
   
   
-<main>
-  
-  <span style="text-decoration: underline;">Etude:</span>
-  <ul>
+ <main> 
+   <span style="text-decoration: underline;">Etude:</span>
+   <ul>
       <li>BEP-CAP vente action marchande</li>
       <li>Niveau BAC Pro Vente</li>
-      
-  </ul>
+   </ul>
   
-  
-  <span style="text-decoration: underline;">Parcour Professionnel:</span>
+   <span style="text-decoration: underline;">Parcour Professionnel:</span>
  
    <h5>-Armée de l'Air: Fusilier commando ( 8 ans)</h5>
   
@@ -35,11 +28,5 @@
    <h5>-STEF: Agent de Quai ( 2 ans)</h5>
   
    <p><img src= https://fracademic.com/pictures/frwiki/76/Logo_STEF-TFE.JPG width="50"></p>
-
-</main>
-   <a 
- href="http://adressedetonsite" title="Titre de ton site"><img style="border: 0px solid ; width: 468px; 
- height: 
- 60px;" alt="Texte alternatif" 
- src="http://adresseimage"></a>
-</htlm>
+  </main>
+<htlm
