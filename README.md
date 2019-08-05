@@ -5,12 +5,14 @@
   <a href="https://www.facebook.com/beauvallet.julien">Facebook</a>/
   <a href="https://www.twitch.tv/djub0otv">Twitch</a></p>
   </head1>
+  
   <head2>
   <span style="text-decoration: underline;">Etude:</span>
 
    - BEP-CAP vente action marchande
    - Niveau BAC Pro Vente
   </head2>
+  
   <span style="text-decoration: underline;">Parcour Professionnel:</span>
  
    <h5>-Armée de l'Air: Fusilier commando ( 8 ans)</h5>
