@@ -8,9 +8,11 @@
   
   
   <span style="text-decoration: underline;">Etude:</span>
-
-   <p>- BEP-CAP vente action marchande</p>
-   <p>- Niveau BAC Pro Vente</p>
+  <ul>
+      <li>BEP-CAP vente action marchande</li>
+      <li>Niveau BAC Pro Vente</li>
+      
+  </ul>
   
   
   <span style="text-decoration: underline;">Parcour Professionnel:</span>
