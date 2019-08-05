@@ -10,8 +10,8 @@
    - Niveau BAC Pro Vente
    
   <span style="text-decoration: underline;">Parcour Professionnel:</span>
-  
-<body>
+ <main> 
+   <body>
    <h5>-Armée de l'Air: Fusilier commando ( 8 ans)</h5>
   
    <p><img src= "https://unplyondotorg.files.wordpress.com/2015/11/fusco512.png?w=150&h=150">
@@ -24,8 +24,8 @@
   
    <p><img src= https://png2.kisspng.com/sh/cb81e28ced8bbe6e576322258dd60ecd/L0KzQYm3VsI6N6RmkZH0aYP2gLBuTgN1bZcyjORqboPzf8P7Tfxwb5p4jNtscz3wcbBohBVubZ95RdVqcnfyPcTsgfZwd5UyhNHwbz24coS9UMU2bZNnTKgAOD63RoW7UMgyOGI6S6I7Nka8R4WAVscyNqFzf3==/kisspng-stef-transport-logistics-management-cargo-seafood-logo-5b36055ebb4658.4644081015302669747671.png></p>
   
-</body>
-  
+   </body>
+ </main> 
   
   
   
