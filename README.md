@@ -10,7 +10,7 @@
    - BEP-CAP vente action marchande
    - Niveau BAC Pro Vente
    
-  <span style="text-decoration: underline;">Parcour Professionnelle:</span>
+  <span style="text-decoration: underline;">Parcour Professionnel:</span>
 <main>
    <title>Armée de l'Air:</title>
      
