@@ -31,6 +31,6 @@
   
    <h5>-STEF: Agent de Quai ( 2 ans)</h5>
   
-   <p><img src= https://fracademic.com/pictures/frwiki/76/Logo_STEF-TFE.JPG width="50"></p>
+   <img src= https://fracademic.com/pictures/frwiki/76/Logo_STEF-TFE.JPG width="50">
   </main>
 <htlm>
