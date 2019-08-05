@@ -1,6 +1,11 @@
 <htlm lang="fr">
   <div class="banniere">
      <p><img src= "https://image-uniservice.linternaute.com/image/150/1389758640/11742809.jpg">
+     <a 
+ href="https://www.instagram.com/azekiell/" title="Instagram"><img style="border: 0px solid ; width: 80px; 
+ height: 
+ 60px;" alt="Texte alternatif" 
+ src="https://sensationalsuga.co.za/wp-content/uploads/2013/02/Instagram-logo-1.jpg"></a>
      <img src= "https://sensationalsuga.co.za/wp-content/uploads/2013/02/Instagram-logo-1.jpg" width="50">
      <iframe src= "https://www.instagram.com/azekiell/"></a> 
      <a href="https://www.facebook.com/beauvallet.julien">Facebook</a>/
@@ -32,5 +37,9 @@
    <p><img src= https://fracademic.com/pictures/frwiki/76/Logo_STEF-TFE.JPG width="50"></p>
 
 </main>
-   
+   <a 
+ href="http://adressedetonsite" title="Titre de ton site"><img style="border: 0px solid ; width: 468px; 
+ height: 
+ 60px;" alt="Texte alternatif" 
+ src="http://adresseimage"></a>
 </htlm>
