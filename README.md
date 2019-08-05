@@ -1,7 +1,7 @@
 <htlm lang="fr">
   <div class="banniere">
   <p><img src= "https://image-uniservice.linternaute.com/image/150/1389758640/11742809.jpg">
-  <img src= "https://sensationalsuga.co.za/wp-content/uploads/2013/02/Instagram-logo-1.jpg" width="50" alt="Instagram"> <iframe src= "https://www.instagram.com/azekiell/">Instagram</a>
+  <img src= "https://sensationalsuga.co.za/wp-content/uploads/2013/02/Instagram-logo-1.jpg" width="50" alt="Instagram"> <iframe src= "https://www.instagram.com/azekiell/"></a>
   <a href="https://www.facebook.com/beauvallet.julien">Facebook</a>/
   <a href="https://www.twitch.tv/djub0otv">Twitch</a></p>
   </div>
