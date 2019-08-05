@@ -1,17 +1,17 @@
 <htlm>
-  <head1>
+  
   <p><img src= "https://image-uniservice.linternaute.com/image/150/1389758640/11742809.jpg">
   <a href="https://www.instagram.com/azekiell/">Instagram</a>/
   <a href="https://www.facebook.com/beauvallet.julien">Facebook</a>/
   <a href="https://www.twitch.tv/djub0otv">Twitch</a></p>
-  </head1>
   
-  <head2>
+  
+  
   <span style="text-decoration: underline;">Etude:</span>
 
    - BEP-CAP vente action marchande
    - Niveau BAC Pro Vente
-  </head2>
+  
   
   <span style="text-decoration: underline;">Parcour Professionnel:</span>
  
