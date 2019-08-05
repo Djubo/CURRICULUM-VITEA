@@ -1,7 +1,7 @@
 <htlm lang="fr">
   
   <p><img src= "https://image-uniservice.linternaute.com/image/150/1389758640/11742809.jpg">
-  <img src= https://sensationalsuga.co.za/wp-content/uploads/2013/02/Instagram-logo-1.jpg <a href="https://www.instagram.com/azekiell/">Instagram</a>/
+  <img src= https://sensationalsuga.co.za/wp-content/uploads/2013/02/Instagram-logo-1.jpg width="50" <a href="https://www.instagram.com/azekiell/">Instagram</a>/
   <a href="https://www.facebook.com/beauvallet.julien">Facebook</a>/
   <a href="https://www.twitch.tv/djub0otv">Twitch</a></p>
   
@@ -26,7 +26,7 @@
   
    <h5>-STEF: Agent de Quai ( 2 ans)</h5>
   
-   <p><img src= https://fracademic.com/pictures/frwiki/76/Logo_STEF-TFE.JPG></p>
+   <p><img src= https://fracademic.com/pictures/frwiki/76/Logo_STEF-TFE.JPG width="50"></p>
 
 </main>
    
