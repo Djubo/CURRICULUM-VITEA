@@ -5,7 +5,7 @@
   <a href="https://www.twitch.tv/djub0otv">Twitch</a></p>
 
   
-<h2>Etude:</h2>
+  <span style="text-decoration: underline;">Etude:</span>
 
    - BEP-CAP vente action marchande
    - Niveau BAC Pro Vente
