@@ -12,7 +12,7 @@
    
   <span style="text-decoration: underline;">Parcour Professionnel:</span>
 <main>
-   <h1>Armée de l'Air:</h1>
+   <h3>Armée de l'Air:</h3>
   
    <p><img src= "https://unplyondotorg.files.wordpress.com/2015/11/fusco512.png?w=150&h=150"></p>
    
