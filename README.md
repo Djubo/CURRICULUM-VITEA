@@ -16,9 +16,9 @@
   
    <p><img src= "https://unplyondotorg.files.wordpress.com/2015/11/fusco512.png?w=150&h=150"></p>
    
-   <p><img src= "https://a4-images.myspacecdn.com/images04/8/c3f4ffcffe274591b6ae50a3f2e1cce5/full.jpg">
+   <p1><img src= "https://a4-images.myspacecdn.com/images04/8/c3f4ffcffe274591b6ae50a3f2e1cce5/full.jpg">
    <iframe src="https://giphy.com/embed/9P94yLRR2R4LFNNXIg" width="180" height="180" frameBorder="0" class="giphy-embed" allowFullScreen> 
-   <iframe src="https://giphy.com/embed/ZcZOj4q60MNsQ" width="480" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></p>
+   <iframe src="https://giphy.com/embed/ZcZOj4q60MNsQ" width="480" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></p1>
    
    <p><iframe src="https://giphy.com/embed/9ALcdYJwOsuBi" width="480" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></p>
   
