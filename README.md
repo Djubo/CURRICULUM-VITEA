@@ -20,5 +20,5 @@
    </iframe><a href="https://giphy.com/gifs/jack-sam-9ALcdYJwOsuBi"></a></p>
   
    
-   <p><img src= "https://unplyondotorg.files.wordpress.com/2015/11/fusco512.png?w=300&h=300"></p>
+   <p><img src= "https://unplyondotorg.files.wordpress.com/2015/11/fusco512.png?w=150&h=150"></p>
 </main>
