@@ -21,8 +21,7 @@
    <iframe src="https://giphy.com/embed/ZcZOj4q60MNsQ" width="480" height="359" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
    <p><a href="https://giphy.com/gifs/army-afghanistan-ZcZOj4q60MNsQ"></a></p>
    
-   <iframe src="https://giphy.com/embed/9ALcdYJwOsuBi" width="480" height="300" frameBorder="0" class="giphy-embed" allowFullScreen>
-   </iframe><a href="https://giphy.com/gifs/jack-sam-9ALcdYJwOsuBi"></a></p>
+   <p><iframe src="https://giphy.com/embed/9ALcdYJwOsuBi" width="480" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></a></p>
   
    
    
