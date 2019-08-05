@@ -15,14 +15,8 @@
    <title>Armée de l'Air:</title>
      
    <p><img src= "https://a4-images.myspacecdn.com/images04/8/c3f4ffcffe274591b6ae50a3f2e1cce5/full.jpg">
-   <iframe src="https://giphy.com/embed/9P94yLRR2R4LFNNXIg" width="180" height="180" frameBorder="0" class="giphy-embed" allowFullScreen>
-   <iframe src="https://giphy.com/embed/ZcZOj4q60MNsQ" width="180" height="180" frameBorder="0" class="giphy-embed" allowFullScreen></p> 
+   <iframe src="https://giphy.com/embed/9P94yLRR2R4LFNNXIg" width="180" height="180" frameBorder="0" class="giphy-embed" allowFullScreen></p>
+   
+<p><a<iframe src="https://giphy.com/embed/ZcZOj4q60MNsQ" width="180" height="180" frameBorder="0" class="giphy-embed" allowFullScreen></a></p> 
    
 
-@font-feature-values Font One {
-/* On active la caractéristique nice-style 
-   sur Font One */
-  @styleset {
-    nice-style: 12;
-  }
-}
