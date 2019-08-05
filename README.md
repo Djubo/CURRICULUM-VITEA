@@ -12,7 +12,7 @@
    
   <span style="text-decoration: underline;">Parcour Professionnel:</span>
   
- <main>
+ <body>
    <h5>-Armée de l'Air: Fusilier commando ( 8 ans)</h5>
   
    <p><img src= "https://unplyondotorg.files.wordpress.com/2015/11/fusco512.png?w=150&h=150">
@@ -25,11 +25,11 @@
    
   
   
-   <h5>-STEF: Agent de Quai ( 2 ans)</h5>
+   <p3><h5>-STEF: Agent de Quai ( 2 ans)</h5>
   
-   <p3><img src= https://www.kisspng.com/png-stef-transport-logistics-management-cargo-seafood-4445655/preview.html></p3>
+   <img src= https://www.kisspng.com/png-stef-transport-logistics-management-cargo-seafood-4445655/preview.html></p3>
   
- </main>
+ </body>
   
   
   
