@@ -27,7 +27,7 @@
   
    <p><img src= "https://unplyondotorg.files.wordpress.com/2015/11/fusco512.png?w=150&h=150" alt="Escadron de Protection">
       <img src= "https://a4-images.myspacecdn.com/images04/8/c3f4ffcffe274591b6ae50a3f2e1cce5/full.jpg">
-      <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/9P94yLRR2R4LFNNXIg"              width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div></p>
+      <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/9P94yLRR2R4LFNNXIg"              width="50" height="50" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div></p>
   
    <h5>-STEF: Agent de Quai ( 2 ans)</h5>
   
