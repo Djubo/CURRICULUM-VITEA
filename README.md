@@ -1,4 +1,4 @@
-
+<htlm lang=fr>
   
   <p><img src= "https://image-uniservice.linternaute.com/image/150/1389758640/11742809.jpg">
   <a href="https://www.instagram.com/azekiell/">Instagram</a>/
@@ -30,13 +30,4 @@
 
 </main>
    
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
+</htlm>
