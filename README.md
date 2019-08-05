@@ -20,7 +20,7 @@
    <iframe src="https://giphy.com/embed/9P94yLRR2R4LFNNXIg" width="180" height="180" frameBorder="0" class="giphy-embed" allowFullScreen> 
    <iframe src="https://giphy.com/embed/ZcZOj4q60MNsQ" width="480" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></p>
    
-   <p><iframe src="https://giphy.com/embed/9ALcdYJwOsuBi" width="480" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></a></p>
+   <p><iframe src="https://giphy.com/embed/9ALcdYJwOsuBi" width="480" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></p>
   
    
    
