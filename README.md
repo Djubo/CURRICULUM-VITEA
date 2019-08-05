@@ -1,4 +1,5 @@
-<htlm lang="fr">
+<!DOCTYPE html>
+<htlm>    
     <div class="banniere">
         <p><img src= "https://image-uniservice.linternaute.com/image/150/1389758640/11742809.jpg">
         <a 
