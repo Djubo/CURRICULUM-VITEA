@@ -13,7 +13,7 @@
   <span style="text-decoration: underline;">Parcour Professionnel:</span>
   
  <main>
-   <h5>Armée de l'Air: Fusilier commando ( 8 ans)</h5>
+   <h5>-Armée de l'Air: Fusilier commando ( 8 ans)</h5>
   
    <p><img src= "https://unplyondotorg.files.wordpress.com/2015/11/fusco512.png?w=150&h=150">
    
