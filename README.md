@@ -22,12 +22,9 @@
    <p2><iframe src="https://giphy.com/embed/ZcZOj4q60MNsQ" width="350" height="380" frameBorder="10" class="giphy-embed" allowFullScreen>
    </p2>
   
-   
+   <h5>-STEF: Agent de Quai ( 2 ans)</h5>
   
-  
-   <p3><h5>-STEF: Agent de Quai ( 2 ans)</h5>
-  
-   <img src= https://www.kisspng.com/png-stef-transport-logistics-management-cargo-seafood-4445655/preview.html></p3>
+   <p><img src= https://www.kisspng.com/png-stef-transport-logistics-management-cargo-seafood-4445655/preview.html></p>
   
  </body>
   
