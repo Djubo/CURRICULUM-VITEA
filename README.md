@@ -2,7 +2,7 @@
     
   <head>
        <p><img 
-               src= "https://image-uniservice.linternaute.com/image/150/1389758640/11742809.jpg">
+               src= "https://image-uniservice.linternaute.com/image/150/1389758640/11742809.jpg?img width="50" height="50"">
          <a href="https://www.instagram.com/azekiell/" title="instagram"><img width="50" height="50" ; alt="instagram"src="https://png2.kisspng.com/sh/adfec6db3a112baa640e4e636a765376/L0KzQYm3WMI1N5pofpH0aYP2gLBuTfNwdaF6jNd7LXnmf7B6TfNtcaEyeeR9LXzyd7E0kQJwbKZojJ9yboP3cbj5gf0ubKZxe9c2d3Xldr32l71pfJ5xReluYoPshLa0lPVueJ1mjNc2NXK7QIaBgvIzapc4TKI3NUS8SIa6U8MyPWQ6SaUCOUe8QYm1kP5o/kisspng-computer-icons-clip-art-logo-product-instagram-dulce-webflow-html-website-template-5b8058bb2bf340.54985333153513797918.png"></a>
          <a 
          href="https://www.facebook.com/beauvallet.julien" title="Facebook"><img  width="50" ; alt="_Facebook" 
