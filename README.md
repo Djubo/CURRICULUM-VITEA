@@ -18,18 +18,16 @@ src="https://icon-library.net//images/twitch-icon-png/twitch-icon-png-0.jpg" alt
        </ul>
   
    <span style="text-decoration: underline;">Parcour Professionnel:</span>
- <div>
     
   <h5>-Armée de l'Air: Fusilier commando ( 8 ans )</h5>
    <p>
       <img src="https://unplyondotorg.files.wordpress.com/2015/11/fusco512.png?w=150&h=150" alt="_escadron de protection">
       <img src= "https://a4-images.myspacecdn.com/images04/8/c3f4ffcffe274591b6ae50a3f2e1cce5/full.jpg">
-      <iframe src= "https://giphy.com/embed/9P94yLRR2R4LFNNXIg" width="180" height="180" frameBorder="0" class="giphy-embed" allowFullScreen></p>
- </div> 
+      <iframe src= "https://giphy.com/embed/9P94yLRR2R4LFNNXIg" width="180" height="180" frameBorder="0" class="giphy-embed" allowFullScreen></p> 
  
  
   <h5>-STEF: Agent de quai ( 2 ans )</h5>
     <p>
-      <img width="150" height="50" src= https://fracademic.com/pictures/frwiki/76/Logo_STEF-TFE.JPG alt="logo stef">
-    <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/2wW2RcJfffMxpyXDzi" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><a href="https://giphy.com/gifs/simonloosbv-warehouse-logistics-warehousing-2wW2RcJfffMxpyXDzi"></a></p>        
+       <img width="150" height="50" src= https://fracademic.com/pictures/frwiki/76/Logo_STEF-TFE.JPG alt="logo stef">
+       <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/2wW2RcJfffMxpyXDzi" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><a href="https://giphy.com/gifs/simonloosbv-warehouse-logistics-warehousing-2wW2RcJfffMxpyXDzi"></a></p>        
 <htlm>
