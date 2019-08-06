@@ -1,6 +1,6 @@
 <htlm>
     
-   <p class="banner">
+   <head>
      <img src= "https://image-uniservice.linternaute.com/image/150/1389758640/11742809.jpg">
        <a 
          href="https://www.instagram.com/azekiell/" title="Instagram"><img width="50" ; alt="_Instagram" 
@@ -11,10 +11,10 @@
          <a 
            href="https://www.twitch.tv/djub0otv" title="Twitch"><img width="50" ; alt="_Twitch"
            src="https://icon-library.net//images/twitch-icon-png/twitch-icon-png-0.jpg"></a>
-    </p>
+    </head>
     
     
-  <main>
+  <body>
    <span style="text-decoration: underline;">Etude:</span>
     <ul>
       <li>BEP-CAP vente action marchande</li>
@@ -35,5 +35,5 @@
    <h5>-STEF: Agent de Quai ( 2 ans)</h5>
          <img src= https://fracademic.com/pictures/frwiki/76/Logo_STEF-TFE.JPG width="50">
          
-  </main>
+  </body>
 <htlm>
