@@ -11,7 +11,6 @@
 src="https://icon-library.net//images/twitch-icon-png/twitch-icon-png-0.jpg" alt="Twitch"></a></p>           
     </head>
     
-  <body>
    <span style="text-decoration: underline;">Etude:</span>
        <ul>
          <li>BEP-CAP vente action marchande</li>
@@ -31,5 +30,4 @@ src="https://icon-library.net//images/twitch-icon-png/twitch-icon-png-0.jpg" alt
     <p>
       <img width="150" height="50" src= https://fracademic.com/pictures/frwiki/76/Logo_STEF-TFE.JPG alt="logo stef">
     <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/2wW2RcJfffMxpyXDzi" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><a href="https://giphy.com/gifs/simonloosbv-warehouse-logistics-warehousing-2wW2RcJfffMxpyXDzi">via GIPHY</a></p>        
-  </body>
 <htlm>
