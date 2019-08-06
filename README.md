@@ -8,8 +8,8 @@
 <img width="50" height="50" src="https://png2.kisspng.com/sh/c77b738567e0ee7bd746311ddbcbb6c7/L0KzQYm3U8E6N6V7j5H0aYP2gLBuTfZia5Znh9H0LXzyd7E0kB9kcZJxRd9uZHnkPbT2jgB2fJZ3Rdtsb372PbrqjB4ubpJofdR4b3uwdMPolBlvb146edQ5MnblR4HpWfFlPV8AUKM8M0W4QYK8UsE1QWYAUaM5NEe4PsH1h5==/kisspng-facebook-logo-social-media-computer-icons-icon-facebook-drawing-5ab02fb70b9ad5.9813355115214959910475.png" alt="facebook">
 </a>
           <a href="https://www.twitch.tv/djub0otv">
-<img width="50" height="30" alt="Twitch"
-src="https://icon-library.net//images/twitch-icon-png/twitch-icon-png-0.jpg" alt="_Twitch"></a></p>
+<img width="50" height="30"
+src="https://icon-library.net//images/twitch-icon-png/twitch-icon-png-0.jpg" alt="Twitch"></a></p>
          </head>
     
  <body>
