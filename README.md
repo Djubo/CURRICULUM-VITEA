@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <htlm>
     
    <p class="banner">
