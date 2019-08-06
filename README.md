@@ -31,8 +31,11 @@ src="https://icon-library.net//images/twitch-icon-png/twitch-icon-png-0.jpg" alt
        <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/2wW2RcJfffMxpyXDzi" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><a href="https://giphy.com/gifs/simonloosbv-warehouse-logistics-warehousing-2wW2RcJfffMxpyXDzi"></a></p>        
 
    <span style="text-decoration: underline;">Passions:</span>
-
-
+   
+  <h5>-Support numérique</h5>
+    <p>
+      <iframe src="https://giphy.com/embed/12Skx13YeskrIc" width="480" height="206" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+      <iframe src="https://giphy.com/embed/bcPP9NMX1Zr9u" width="480" height="302" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></p>
 
 
 <htlm>
