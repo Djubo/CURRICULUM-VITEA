@@ -32,7 +32,7 @@
            src="https://giphy.com/embed/9P94yLRR2R4LFNNXIg" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></a></p>
   
    <h5>-STEF: Agent de Quai ( 2 ans)</h5>
-         <img src= https://fracademic.com/pictures/frwiki/76/Logo_STEF-TFE.JPG width="50">
+         <img src= https://fracademic.com/pictures/frwiki/76/Logo_STEF-TFE.JPG width="150" height="50">
          
   </body>
 <htlm>
