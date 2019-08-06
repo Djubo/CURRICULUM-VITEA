@@ -28,7 +28,8 @@
            src="https://unplyondotorg.files.wordpress.com/2015/11/fusco512.png?w=150&h=150" alt="_escadron de protection">
       <img 
            src= "https://a4-images.myspacecdn.com/images04/8/c3f4ffcffe274591b6ae50a3f2e1cce5/full.jpg">
-      <iframe src="https://giphy.com/embed/9P94yLRR2R4LFNNXIg" width="150" height="150" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mrw-week-something-9P94yLRR2R4LFNNXIg"></a></p>
+      <iframe 
+           src="https://giphy.com/embed/9P94yLRR2R4LFNNXIg" width="150" height="150" frameBorder="0" class="giphy-embed" allowFullScreen></a></p>
   
    <h5>-STEF: Agent de Quai ( 2 ans)</h5>
          <img src= https://fracademic.com/pictures/frwiki/76/Logo_STEF-TFE.JPG width="50">
