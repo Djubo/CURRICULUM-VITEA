@@ -12,6 +12,9 @@
            href="https://www.twitch.tv/djub0otv" title="Twitch"><img width="50" ; alt="Twitch"
            src="https://icon-library.net//images/twitch-icon-png/twitch-icon-png-0.jpg"></a>
     </p>
+          <p>Linked logo: [![twitch](/https://icon-library.net//images/twitch-icon-png/twitch-icon-png-0.jpg)]
+           (https://www.twitch.tv/djub0otv "twitch")</p>
+    
     
   <main>
    <span style="text-decoration: underline;">Etude:</span>
