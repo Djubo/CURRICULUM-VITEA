@@ -21,7 +21,7 @@
   
    <span style="text-decoration: underline;">Parcour Professionnel:</span>
  
-   <h5>-Armée de l'Air: Fusilier commando ( 8 ans)</h5>
+  <h5>-Armée de l'Air: Fusilier commando ( 8 ans)</h5>
   
    <p>
       <img 
