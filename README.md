@@ -25,6 +25,7 @@ src="https://icon-library.net//images/twitch-icon-png/twitch-icon-png-0.jpg" alt
       <img src="https://unplyondotorg.files.wordpress.com/2015/11/fusco512.png?w=150&h=150" alt="_escadron de protection">
       <img src= "https://a4-images.myspacecdn.com/images04/8/c3f4ffcffe274591b6ae50a3f2e1cce5/full.jpg">
       <iframe src= "https://giphy.com/embed/9P94yLRR2R4LFNNXIg" width="180" height="180" frameBorder="0" class="giphy-embed" allowFullScreen></p>
+       <div style="width:100%;height:0;padding-bottom:55%;position:relative;"><iframe src="https://giphy.com/embed/3ohc11c4pipTLCdFx6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
     
    <h5>-STEF: Agent de Quai ( 2 ans)</h5>
     <p> 
