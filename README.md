@@ -28,7 +28,8 @@ src="https://icon-library.net//images/twitch-icon-png/twitch-icon-png-0.jpg" alt
        <div style="width:100%;height:0;padding-bottom:55%;position:relative;"><iframe src="https://giphy.com/embed/3ohc11c4pipTLCdFx6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
     
    <h5>-STEF: Agent de Quai ( 2 ans)</h5>
-    <p> 
-     <img width="150" height="50" src= https://fracademic.com/pictures/frwiki/76/Logo_STEF-TFE.JPG alt="logo stef"></p>        
+    <p>
+     <a
+     <img width="150" height="50" src= https://fracademic.com/pictures/frwiki/76/Logo_STEF-TFE.JPG alt="logo stef"></a></p>        
   </body>
 <htlm>
