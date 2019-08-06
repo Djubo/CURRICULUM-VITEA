@@ -11,12 +11,12 @@
 src="https://icon-library.net//images/twitch-icon-png/twitch-icon-png-0.jpg" alt="Twitch"></a></p>           
     </head>
     
- <body>
+  <body>
    <span style="text-decoration: underline;">Etude:</span>
-     <ul>
-      <li>BEP-CAP vente action marchande</li>
-      <li>Niveau BAC Pro Vente</li>
-     </ul>
+       <ul>
+         <li>BEP-CAP vente action marchande</li>
+         <li>Niveau BAC Pro Vente</li>
+       </ul>
   
    <span style="text-decoration: underline;">Parcour Professionnel:</span>
  
@@ -31,5 +31,5 @@ src="https://icon-library.net//images/twitch-icon-png/twitch-icon-png-0.jpg" alt
       <p> 
        <img idth="150" height="50" src= https://fracademic.com/pictures/frwiki/76/Logo_STEF-TFE.JPG w></p>
          
-  </body>
+   </body>
 <htlm>
