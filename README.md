@@ -25,9 +25,8 @@ src="https://icon-library.net//images/twitch-icon-png/twitch-icon-png-0.jpg" alt
       <img src= "https://a4-images.myspacecdn.com/images04/8/c3f4ffcffe274591b6ae50a3f2e1cce5/full.jpg">
       <iframe src= "https://giphy.com/embed/9P94yLRR2R4LFNNXIg" width="180" height="180" frameBorder="0" class="giphy-embed" allowFullScreen></p>
    
-   <h5>-STEF: Agent de quai ( 2 ans )</h5>
-   
-   <p><img width="150" height="50" src= https://fracademic.com/pictures/frwiki/76/Logo_STEF-TFE.JPG alt="logo stef"></p>        
+  <h5>-STEF: Agent de quai ( 2 ans )</h5>   
+    <p><img width="150" height="50" src= https://fracademic.com/pictures/frwiki/76/Logo_STEF-TFE.JPG alt="logo stef"></p>        
 
    <span style="text-decoration: underline;">Passions:</span>
    
