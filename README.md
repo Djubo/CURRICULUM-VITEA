@@ -9,7 +9,7 @@
           <a href="https://www.twitch.tv/djub0otv">
 <img width="50" height="30"
 src="https://icon-library.net//images/twitch-icon-png/twitch-icon-png-0.jpg" alt="Twitch"></a></p>           
-    </head>
+  </head>
   <body>  
    <span style="text-decoration: underline;">Etude:</span>
        <ul>
@@ -34,7 +34,24 @@ src="https://icon-library.net//images/twitch-icon-png/twitch-icon-png-0.jpg" alt
   <h5>-Support numérique</h5>
     <p>
       <iframe src="https://giphy.com/embed/12Skx13YeskrIc" width="180" height="180" frameBorder="0" allowFullScreen></iframe>
-      <iframe src="https://giphy.com/embed/bcPP9NMX1Zr9u" width="180" height="180" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></p>
+      <iframe src="https://giphy.com/embed/bcPP9NMX1Zr9u" width="180" height="180" frameBorder="0" class="giphy-embed" allowFullScreen>
+    </p>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
   </body>
 
 <htlm>
