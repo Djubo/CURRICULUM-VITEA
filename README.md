@@ -18,7 +18,8 @@ src="https://icon-library.net//images/twitch-icon-png/twitch-icon-png-0.jpg" alt
        </ul>
   
    <span style="text-decoration: underline;">Parcour Professionnel:</span>
-    
+  
+   
   <h5>-Armée de l'Air: Fusilier commando ( 8 ans )</h5>
    <p>
       <img src="https://unplyondotorg.files.wordpress.com/2015/11/fusco512.png?w=150&h=150" alt="_escadron de protection">
@@ -36,7 +37,7 @@ src="https://icon-library.net//images/twitch-icon-png/twitch-icon-png-0.jpg" alt
       <iframe src="https://giphy.com/embed/12Skx13YeskrIc" width="180" height="180" frameBorder="0" allowFullScreen>
       <iframe src="https://giphy.com/embed/bcPP9NMX1Zr9u" width="180" height="180" frameBorder="0" class="giphy-embed" allowFullScreen>
       </iframe>    
-    </p>
+    </p></body>
     
     
     
@@ -53,6 +54,6 @@ src="https://icon-library.net//images/twitch-icon-png/twitch-icon-png-0.jpg" alt
     
     
     
-  </body>
+  
 
 <htlm>
