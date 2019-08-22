@@ -3,9 +3,9 @@
   <head>
        <p><img src= "https://image-uniservice.linternaute.com/image/150/1389758640/11742809.jpg">          
           <a href="https://www.instagram.com/azekiell/">
-<img width="50" height="50" src="https://png2.kisspng.com/sh/adfec6db3a112baa640e4e636a765376/L0KzQYm3WMI1N5pofpH0aYP2gLBuTfNwdaF6jNd7LXnmf7B6TfNtcaEyeeR9LXzyd7E0kQJwbKZojJ9yboP3cbj5gf0ubKZxe9c2d3Xldr32l71pfJ5xReluYoPshLa0lPVueJ1mjNc2NXK7QIaBgvIzapc4TKI3NUS8SIa6U8MyPWQ6SaUCOUe8QYm1kP5o/kisspng-computer-icons-clip-art-logo-product-instagram-dulce-webflow-html-website-template-5b8058bb2bf340.54985333153513797918.png" alt="instagram"></a>
+<img width="50" height="50" src="https://png.pngtree.com/png-clipart/20190613/original/pngtree-instagram-logo-icon-png-image_3588821.jpg" alt="instagram"></a>
           <a href="https://www.facebook.com/beauvallet.julien">
-<img width="50" height="50" src="http://www.saintlouisbasket.be/wp-content/uploads/2019/01/kisspng-facebook-inc-like-button-logo-5b015d7a0d83f1.7256133415268161220554.jpg" alt="facebook"></a>
+<img width="50" height="50" src="https://icon-library.net/images/facebook-icon-jpg-download/facebook-icon-jpg-download-15.jpg" alt="facebook"></a>
           <a href="https://www.twitch.tv/djub0otv">
 <img width="50" height="30"
 src="https://icon-library.net//images/twitch-icon-png/twitch-icon-png-0.jpg" alt="Twitch"></a></p>           
