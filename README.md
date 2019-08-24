@@ -8,7 +8,15 @@
 <img width="50" height="50" src="https://png2.kisspng.com/sh/e231742347c203d1df0b648f783d0d44/L0KzQYm3V8E2N6ZrgZH0aYP2gLBuTfxwb5Cye9H2cIX3dcO0ifNwdqQyftNsZXLyf7y0gBxqeF5miuY2c4TkfLr1TcVjPJNoSNg5Y3HmRIG3TsUzO2Y3TKI8MUW2QYeCUcI1QGk4SKc3cH7q/kisspng-logo-computer-icons-facebook-clip-art-stalin-5b4bc0f0cac400.5235240315316912488305.png" alt="facebook"></a>
           <a href="https://www.twitch.tv/djub0otv">
 <img width="50" height="30"
-src="https://icon-library.net//images/twitch-icon-png/twitch-icon-png-0.jpg" alt="Twitch"></a></p>           
+src="https://icon-library.net//images/twitch-icon-png/twitch-icon-png-0.jpg" alt="Twitch"></a></p>
+    
+   <nav>
+   <h2><a href="motivation">Onglet 1</h2>
+   <h2><a href="centres d'intérêts">Onglet 2</a></h2>
+   </nav>
+    
+    
+    
   </head>
   <body>  
    <span style="text-decoration: underline;">Etude:</span>
