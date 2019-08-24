@@ -1,5 +1,4 @@
-<htlm>
-    
+   
   <head>
        <p><img src= "https://image-uniservice.linternaute.com/image/150/1389758640/11742809.jpg">          
           <a href="https://www.instagram.com/azekiell/">
@@ -13,8 +12,7 @@ src="https://icon-library.net//images/twitch-icon-png/twitch-icon-png-0.jpg" alt
    <nav>
     <h2><a href=" https://djubo.github.io/Parcour-Professionnel/.">Parcour Professionnel</a></h2>
     <h2><a href="https://djubo.github.io/Motivation/">Motivation</a></h2>
-    <h2><a href="https://djubo.github.io/Centres-d-interets/">Centres d'intérêts</a></h2>
-    
+    <h2><a href="https://djubo.github.io/Centres-d-interets/">Centres d'intérêts</a></h2>    
    </nav>
      
     
@@ -51,4 +49,4 @@ src="https://icon-library.net//images/twitch-icon-png/twitch-icon-png-0.jpg" alt
     
   
 
-</htlm>
+
