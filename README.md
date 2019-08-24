@@ -11,10 +11,10 @@
 src="https://icon-library.net//images/twitch-icon-png/twitch-icon-png-0.jpg" alt="Twitch"></a></p>
     
    <nav>
-   <h2><a href="motivation">Onglet 1</h2>
-   <h2><a href="centres d'intérêts">Onglet 2</a></h2>
+   <h2><a href="#contenu-o1">motivation</a></h2>
+   <h2><a href="#contenu-o2">centres d'intérêts</a></h2>
    </nav>
-    
+   
     
     
   </head>
