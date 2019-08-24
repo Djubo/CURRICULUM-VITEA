@@ -11,8 +11,8 @@
 src="https://icon-library.net//images/twitch-icon-png/twitch-icon-png-0.jpg" alt="Twitch"></a></p>
     
    <nav>
-   <h2><a href="https://djubo.github.io/Motivation/">motivation</a></h2>
-    <h2><a href="#contenu-o2">centres d'intérêts</a></h2>
+   <h2><a href="https://djubo.github.io/Motivation/">Motivation</a></h2>
+    <h2><a href="https://djubo.github.io/Centres-d-interets/">Centres d'intérêts</a></h2>
     <h2><a href="#contenu-o2">Parcour Professionnel</a></h2>
    </nav>
      
