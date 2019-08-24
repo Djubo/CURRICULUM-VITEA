@@ -28,7 +28,7 @@ src="https://icon-library.net//images/twitch-icon-png/twitch-icon-png-0.jpg" alt
    
   <h5>-STEF: Agent de quai ( 2 ans )</h5>   
    <p>
-      <img width="150" height="50" src= https://fracademic.com/pictures/frwiki/76/Logo_STEF-TFE.JPG alt="logo stef"></p>        
+      <img width="100" height="50" src= https://fracademic.com/pictures/frwiki/76/Logo_STEF-TFE.JPG alt="logo stef"></p>        
 
    <span style="text-decoration: underline;">Passions:</span>
    
@@ -40,7 +40,6 @@ src="https://icon-library.net//images/twitch-icon-png/twitch-icon-png-0.jpg" alt
     </p></body>
     
     
-   ![teamwork-cat-dog](https://github.com/davidtheclark/gifs/blob/master/teamwork-cat-dog.gif)
     
    
     
