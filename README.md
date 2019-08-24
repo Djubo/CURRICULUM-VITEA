@@ -12,12 +12,14 @@ src="https://icon-library.net//images/twitch-icon-png/twitch-icon-png-0.jpg" alt
     
    <nav>
    <h2><a href="https://djubo.github.io/Motivation/">motivation</a></h2>
-   <h2><a href="#contenu-o2">centres d'intérêts</a></h2>
+    <h2><a href="#contenu-o2">centres d'intérêts</a></h2>
+    <h2><a href="#contenu-o2">Parcour Professionnel</a></h2>
    </nav>
-   
-    
+     
     
   </head>
+  
+  
   <body>  
    <span style="text-decoration: underline;">Etude:</span>
        <ul>
@@ -32,7 +34,7 @@ src="https://icon-library.net//images/twitch-icon-png/twitch-icon-png-0.jpg" alt
    <p>
       <img src="https://unplyondotorg.files.wordpress.com/2015/11/fusco512.png?w=150&h=150" alt="_escadron de protection">
       <iframe src= "https://giphy.com/embed/9P94yLRR2R4LFNNXIg" width="180" height="180" frameBorder="0" class="giphy-embed" allowFullScreen>
-         </p>
+    </p>
    
   <h5>-STEF: Agent de quai ( 2 ans )</h5>   
    <p>
@@ -40,12 +42,7 @@ src="https://icon-library.net//images/twitch-icon-png/twitch-icon-png-0.jpg" alt
 
    <span style="text-decoration: underline;">Passions:</span>
    
-  <h5>-Support numérique</h5>
-    <p>
-      <iframe src="https://giphy.com/embed/12Skx13YeskrIc" width="180" height="180" frameBorder="0" allowFullScreen>
-      <iframe src="https://giphy.com/embed/bcPP9NMX1Zr9u" width="180" height="180" frameBorder="0" class="giphy-embed" allowFullScreen>
-      </iframe>    
-    </p></body>
+ 
     
     
     
