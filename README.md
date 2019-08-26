@@ -27,7 +27,7 @@ src="https://icon-library.net//images/twitch-icon-png/twitch-icon-png-0.jpg" alt
        </ul>
   
    
-   <span style="text-decoration: underline;">Compétences:</span>   
+   <span style="text-decoration: underline;">Qualitée:</span>   
        <ul>
          <li>Autodidacte</li>
          <li>Rigueur</li>
