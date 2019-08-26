@@ -20,7 +20,7 @@ src="https://icon-library.net//images/twitch-icon-png/twitch-icon-png-0.jpg" alt
   
   
   <body>  
-   <span style="text-decoration: underline;">Etude:</span>
+   <span style="text-decoration: underline;">Etudes:</span>
        <ul>
          <li>BEP-CAP vente action marchande</li>
          <li>Niveau BAC Pro Vente</li>
