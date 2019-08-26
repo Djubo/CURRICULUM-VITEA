@@ -27,9 +27,14 @@ src="https://icon-library.net//images/twitch-icon-png/twitch-icon-png-0.jpg" alt
        </ul>
   
    
-  
-   
-  
+   <span style="text-decoration: underline;">Compétences:</span>   
+       <ul>
+         <li>Autodidacte</li>
+         <li>Rigeur</li>
+         <li>Logique</li>
+         <li>Patience</li>
+         <li>Curiosité</li> 
+       </ul>
    
  
     
