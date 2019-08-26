@@ -30,10 +30,10 @@ src="https://icon-library.net//images/twitch-icon-png/twitch-icon-png-0.jpg" alt
    <span style="text-decoration: underline;">Qualitée:</span>   
        <ul>
          <li>Autodidacte</li>
-         <li>Rigueur</li>
-         <li>Logique</li>
-         <li>Patience</li>
-         <li>Curiosité</li> 
+         <li>Rigoureux</li>
+         <li>Esprit de logique</li>
+         <li>Patient</li>
+         <li>Curieux</li> 
        </ul>
    
  
